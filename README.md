@@ -1,95 +1,110 @@
-<h1 align="center">Hi 👋, I'm Zineb Azoulay</h1>[cite: 1, 2]
-
-<h3 align="center">
-AI & Data Science Engineering Student | Building Intelligent Solutions
-</h3>
+<img src="githubanner.JPG"/>
 
 <p align="center">
-Currently completing an Artificial Intelligence & Data Science internship at <b>Atos</b>, focusing on building a sovereign, local RAG (Retrieval-Augmented Generation) "Corporate Brain" platform.
+  <a href="https://www.linkedin.com/in/zinebazoulay/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/a-zineb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:zinebazoulay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🌸 <em>About Me</em></h2>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI5MG9qYnpiYTFiMnNuaDZtY2dwbm11OTdxaDJvNGhob2N0OXY2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DoIquD1MhDGMw/giphy.gif" width="250" align="right"/>
+
+<br/>
+
+<p>
+Hello! I'm <b>Zineb Azoulay</b>, an AI & Data Science Engineering student from Morocco passionate about Artificial Intelligence, Large Language Models, Retrieval-Augmented Generation (RAG), and building intelligent applications.
+
+I enjoy transforming research into practical solutions, creating AI-powered platforms, and developing production-ready applications that solve real-world problems. My goal is to become an AI & Data Science Engineer while continuously learning and building innovative technologies.
+</p>
+
+<br/>
+
+<p align="center">
+🌸 <b>AI & Data Science Engineering Student @ EMSI</b><br/>
+🌸 <b>AI & Data Science Intern @ Atos</b><br/>
+🌸 <b>Aspiring AI & Data Science Engineer</b><br/>
+🌸 <b>Building AI Applications & Intelligent Systems</b><br/>
+🌸 <b>Passionate about LLMs, RAG & NLP</b>
+</p>
+
+<br/><br/>
+
+<h2 align="center">🌸 <em>Technologies</em></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-ffb6c1?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flet-ffb6c1?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ffb6c1?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-ffb6c1?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-ffb6c1?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qdrant-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-ffb6c1?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-ffb6c1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ffb6c1?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<br><br>
+
+<h2 align="center">🌸 <em>Featured Projects</em></h2>
+
+<div align="center">
+
+🧠 **Corporate Brain Platform (Atos)**  
+Local sovereign RAG platform using Ollama, embeddings, and vector databases.
+
+📱 **LifeGuard**  
+Cross-platform screen time monitoring application built with Python & Flet.
+
+🌾 **NOVEC Data Collection App**  
+Mobile application for agricultural field data collection.
+
+🫁 **Healthcare AI Research**  
+Deep learning models for pneumonia detection and heart disease prediction.
+
+</div>
+
+<br><br>
+
+<h2 align="center">🌸 <em>Currently Learning</em></h2>
+
+<div align="center">
+
+Oracle Cloud Data Science • CNNs • Agentic AI • Advanced RAG Pipelines • Vector Databases • NLP • Deep Learning
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=a-zineb&bg_color=ffe4ec&color=ff69b4&line=ff69b4&point=ff1493&area=true&hide_border=true"/>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=a-zineb&show_icons=true&theme=transparent&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&hide_border=true"/>
 </p>
 
 <p align="center">
-Aspiring <b>AI & Data Science Engineer</b> passionate about Natural Language Processing (NLP), Large Language Models, Vector Databases, and building production-ready interactive applications.
+<img src="https://streak-stats.demolab.com?user=a-zineb&theme=default&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&margin-w=10&margin-h=10" alt="zinebazoulay" />
-</a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 AI & Data Science Engineering Student at **EMSI**
-- 🏢 AI & Data Science Intern at **Atos** (Rabat)
-- 🤖 Deeply interested in **Generative AI, Local LLMs, RAG Pipelines, and Deep Learning Architectures**
-- 🛠️ Prefer an applied, code-centric approach to building functional mobile and web applications with interactive interfaces
-- 📚 Continuously expanding my technical stack through hands-on corporate engineering projects and professional certifications[cite: 1, 2, 3, 4]
-- 🎯 Career Goal: **AI / Data Science Engineer**
-
----
-
-## 🌱 Certified & Continuously Learning
-
-- **Oracle Cloud Infrastructure** 2025 Certified Data Science Professional[cite: 2]
-- **Google** Agile Project Management[cite: 4]
-- **IBM** Python for Data Science, AI & Development[cite: 3]
-- **Johns Hopkins University** The Unix Workbench (Linux/Unix Systems)[cite: 1]
-- Convolutional Neural Networks (CNNs) & Agentic AI
-- Advanced NoSQL Databases (MongoDB, Neo4j)
-
----
-
-## 📂 Featured Projects
-
-- 🧠 **Corporate Brain Platform (Atos)** - A secure, local RAG pipeline implementing open-source LLMs via Ollama, text chunking, and vector database management.
-- 📱 **LifeGuard App** - A cross-platform mobile application built with Python and the Flet framework to track, log, and analyze user screen time.
-- 🌾 **Irrigation Data Collection App (NOVEC)** - A dedicated mobile database application developed for field workers to optimize and collect agricultural data.
-- 🫁 **Healthcare AI Systems** - Research and implementation of deep learning networks for pneumonia detection and heart disease analysis.
-
----
-
-## 💻 Technologies
-
-**AI & Deep Learning**
-
-Large Language Models (LLMs) • RAG • Text Embeddings • Prompt Engineering • CNNs • Scikit-Learn
-
-**Languages & Frameworks**
-
-Python • Flet Framework • FastAPI • Java Advanced • C++
-
-**Databases**
-
-Vector Databases (Qdrant / ChromaDB) • SQL • MongoDB • Neo4j
-
-**Systems & Infrastructure**
-
-Linux/Unix[cite: 1] • Bash Scripting • Ollama Local Inference
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/zineb-azoulay-b70a72420/
-- 📧 Email: **zinebazoulay@gmail.com**
-
----
-
-## ⚡ Fun Fact
-
-Instead of just writing theoretical terminal scripts, I love spending my time building full-stack applications with beautiful interactive user interfaces from scratch! 💻
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-zineb&layout=compact&theme=transparent&title_color=ff69b4&text_color=ff69b4&hide_border=true"/>
 </p>
