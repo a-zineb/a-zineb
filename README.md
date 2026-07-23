@@ -67,17 +67,12 @@ I enjoy transforming research into practical solutions, creating AI-powered plat
 
 <div align="center">
 
-🧠 **Corporate Brain Platform (Atos)**  
+🧠 **Corporate Brain Platform **  
 Local sovereign RAG platform using Ollama, embeddings, and vector databases.
-
-📱 **LifeGuard**  
-Cross-platform screen time monitoring application built with Python & Flet.
 
 🌾 **NOVEC Data Collection App**  
 Mobile application for agricultural field data collection.
 
-🫁 **Healthcare AI Research**  
-Deep learning models for pneumonia detection and heart disease prediction.
 
 </div>
 
